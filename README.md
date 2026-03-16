@@ -1,7 +1,7 @@
 # 🦁 The Beast — Local AI Agent Lab  
 **Project: gemma_agent**  
 **Model:** Gemma 3 12B (Local via Ollama)  
-**Hardware:** HP 35L 64 GIG 4 TB RTX 4070 Super  
+**Hardware:** HP 35L 64 GIG 4 TB SSD RTX 4070 Super  
 **OS:** Ubuntu Linux  
 
 A fully local, tool‑calling autonomous agent designed for experimentation, clarity, and hands‑on AI engineering.  
