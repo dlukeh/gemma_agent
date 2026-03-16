@@ -1,0 +1,24 @@
+{
+  "run_shell": {
+    "description": "Execute a local shell command in a controlled, sandboxed environment. Only safe commands run automatically; some require confirmation; dangerous commands are blocked.",
+    "arguments": {
+      "command": "The shell command to execute, e.g. 'ls -la' or 'nvidia-smi'."
+    },
+    "returns": "The command's stdout/stderr output, truncated if too long, plus an exit code.",
+    "example_call": {
+      "tool": "run_shell",
+      "command": "uptime"
+    }
+  },
+  "get_current_time_in_timezone": {
+    "description": "Return the current time in a given timezone.",
+    "arguments": {
+      "timezone": "A valid timezone string."
+    },
+    "returns": "A formatted timestamp string.",
+    "example_call": {
+      "tool": "get_current_time_in_timezone",
+      "timezone": "America/New_York"
+    }
+  }
+}
