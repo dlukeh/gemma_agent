@@ -1,11 +1,13 @@
 # 🦁 The Beast — Local AI Agent Lab  
-**Project: gemma_agent**  
+A dedicated Linux workstation engineered for local AI development, agent experimentation, and hands‑on exploration of modern LLM tooling.
+
+**Project Focus:** Local AI Agents (gemma_agent, hf_agents)  
 **Model:** Gemma 3 12B (Local via Ollama)  
 **Hardware:** HP 35L 64 GIG 4 TB SSD RTX 4070 Super  
 **OS:** Ubuntu Linux  
+ 
 
-A fully local, tool‑calling autonomous agent designed for experimentation, clarity, and hands‑on AI engineering.  
-This project represents my personal lab for building, testing, and refining agent architectures on my Linux workstation (“The Beast”).
+This machine is the home of my AI engineering journey — a place where I build, test, and refine autonomous agents with clean modular design, reproducible workflows, and a focus on local‑first execution. Every project in my repos is developed, documented, and iterated on inside this environment.
 
 ---
 
